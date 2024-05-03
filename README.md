@@ -11,5 +11,4 @@ Heap-urile strict Fibonacci sunt structuri de heap avansate cunoscute pentru exc
 Fiecare dintre aceste structuri de heap are avantajele și compromisurile sale unice, făcându-le potrivite pentru diferite domenii de probleme și cerințe algoritmice. În timp ce heap-urile de tip rank-pairing oferă un compromis echilibrat între diversele operațiuni ale heap-ului, heap-urile de tip skew binomial prioritizează simplitatea și ușurința de fuzionare, iar heap-urile strict Fibonacci excel în scenarii care necesită actualizări frecvente ale priorităților cu operații eficiente de scădere a cheii. În funcție de nevoile specifice ale unei aplicații, una dintre aceste structuri de heap poate fi mai potrivită decât celelalte.
 
 Voica Stefan
-
 Moloceniuc Albert
